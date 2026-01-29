@@ -25,4 +25,4 @@ High-level details on what I do and in plain english so I can learn what you're 
 https://docs.google.com/presentation/d/1tBAlYIhtoelVG3iy4xuA4mrWR9WlGcHKOOYd_ayy3jw/edit?usp=sharing
 
 
- ## Next time: Project details
+ ### Next time: Project details
