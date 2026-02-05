@@ -9,7 +9,7 @@ Welcome to research! This is where I will keep project materials for you. I like
 Of the ~100,000 galaxies in the CEERS field, there are just a few confirmed at z>10. We suspect there are many more galaxies at z>10 but they are not bright enough for their light to reach our detectors. We measure the UV Luminosity, or the intrinsic brightness, of the z>10 CEERS sample and the remaining CEERS sample to learn how intrinsicaly bright these z>10 galaxies are compared to our foreground galaxy population.
 
 
-## Project outline (see aries.ipnby):
+## Project outline (see aries.ipynb):
 
 
 
